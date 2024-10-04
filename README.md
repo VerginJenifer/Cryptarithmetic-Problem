@@ -94,7 +94,6 @@ def solve_cryptarithmetic():
 
     return None
 
-# Call the function
 solution = solve_cryptarithmetic()
 
 if solution:
