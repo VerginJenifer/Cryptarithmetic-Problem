@@ -72,7 +72,7 @@ Begin<br>
    return false<br>
 End<br>
 <hr>
-## PROGRAM
+## PROGRAM:
 ```
 from itertools import permutations
 
@@ -94,6 +94,7 @@ def solve_cryptarithmetic():
 
     return None
 
+# Call the function
 solution = solve_cryptarithmetic()
 
 if solution:
@@ -104,6 +105,7 @@ if solution:
 else:
     print("No solution found.")
 ```
+<hr>
 <h2>Sample Input and Output:</h2>
 SEND = 9567<br>
 MORE = 1085<br>
